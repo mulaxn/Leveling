@@ -14,8 +14,8 @@ Make sure you have the following installed:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/SMP.git
-cd SMP
+git clone https://github.com/mulaxn/Leveling.git
+cd Leveling
 npm install
 
 🧪 Development Server
